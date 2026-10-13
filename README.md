@@ -1,1 +1,1 @@
-### Welcome to SQL Power Hour
+### Welcome
